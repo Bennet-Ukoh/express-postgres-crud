@@ -86,7 +86,7 @@ Below are screenshots showing successful tests of all routes using **Thunder Cli
 - ![Get All Users](./assets/get-all-users.png)
 - ![Get Specific User](./assets/get-specific-user.png)
 - ![Create New User](./assets/create-new-user.png)
-- ![Update User](./assets/update-user.png)
+- ![Update User](./assets//update-user.png)
 - ![Delete User](./assets/delete-user.png)
 
 ---
