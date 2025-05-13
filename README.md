@@ -13,7 +13,7 @@ A simple Express.js RESTful API connected to a PostgreSQL database that performs
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/express-postgres-crud.git
+git clone https://github.com/Bennet-Ukoh/express-postgres-crud.git
 cd express-postgres-crud
 ```
 
